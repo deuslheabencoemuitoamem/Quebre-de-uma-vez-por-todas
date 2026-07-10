@@ -1,0 +1,6 @@
+{
+  "name": "Deus Te Ama",
+  "description": "Consiga ter a vida preenchida de prosperidade, alegria e paz, realizar todos os seus sonhos, mudar de vida e aprender a tomar as decisões certas!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
